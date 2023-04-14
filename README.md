@@ -7,13 +7,12 @@ Criei um CLI básico para verificar as respostas utilizando o readline e prompt-
 
 **Obs:** *É necessário ter o ambiente configurado com Nodejs e NPM*
 
-Depois de configurar o ambiente instale os módulos com: 
-```shell
-npm install
-```
-Depois inicie o script com:
+Depois de configurar o ambiente siga os passo, clone o repositório, entre na pasta do projeto, instale as dependencias e inicie o script: 
 
 ```shell
+git clone https://github.com/wevertoncamposdev/targetsistemas.git
+cd targetsistemas
+npm install
 npm run script
 ```
 
