@@ -1,0 +1,14 @@
+{
+  "name": "targetsistemas",
+  "version": "1.0.0",
+  "description": "Teste para estágio",
+  "main": "index.js",
+  "scripts": {
+    "script": "node index.js"
+  },
+  "author": "Weverton Campos",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
