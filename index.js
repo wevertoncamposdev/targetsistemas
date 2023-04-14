@@ -50,6 +50,7 @@ function questionTwo() {
     while (c <= input) {
         if (c === input) {
             console.log(`${input} pertence à sequência de Fibonacci!`);
+            return true;
         }
         a = b;
         b = c;
@@ -58,6 +59,7 @@ function questionTwo() {
 
     if (c > input) {
         console.log(`${input} não pertence à sequência de Fibonacci.`);
+        return true;
     }
 
 }
