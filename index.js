@@ -87,7 +87,7 @@ function questionThree() {
     c) 0, 1, 4, 9, 16, 25, 36, 49
     A lógica é elevar o índice do elemento por 2.
 
-    d) Não consegui identificar
+    d) 4, 16, 36, 64, ____
 
     e) 1, 1, 2, 3, 5, 8, 13
     A lógica é adicionar os dois elementos anteriores para obter o próximo elemento.
