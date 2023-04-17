@@ -1,7 +1,6 @@
 # Estágio Target Sistemas
 
 As respostas estão no arquivo index.js
-
 Criei um CLI básico para verificar as respostas utilizando o readline e prompt-sync
 
 **Obs:** *É necessário ter o ambiente configurado com Nodejs e NPM*
