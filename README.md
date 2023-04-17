@@ -1,6 +1,5 @@
 # Estágio Target Sistemas
- 
-## Job Rotation - Ribeirão Preto
+
 As respostas estão no arquivo index.js
 
 Criei um CLI básico para verificar as respostas utilizando o readline e prompt-sync
