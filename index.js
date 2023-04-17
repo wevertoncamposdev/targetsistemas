@@ -78,7 +78,7 @@ function questionThree() {
     
     */
     console.log(`
-    No momento não consigo automatizar está resposta por isso estou passando por escrito.
+    No momento não consigo automatizar esta resposta por isso estou passando por escrito.
 
     a) 1, 3, 5, 7, 9
     A lógica é adicionar 2 ao elemento anterior.
@@ -128,7 +128,7 @@ function questionFour() {
     quando eles se encontrarem na estrada.
     */
     console.log(`
-    A primeira coisa é definir o ponto de encontro:
+    A primeira etapa é definir o ponto de encontro:
     t = d / (v1 + v2) = t = 100 / (110 + 80) = 0,5882 horas
 
     Agora podemos definir a posição do carro: 
