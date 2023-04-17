@@ -4,7 +4,7 @@
   "description": "Teste para estágio",
   "main": "index.js",
   "scripts": {
-    "script": "node index.js"
+    "start": "node index.js"
   },
   "author": "Weverton Campos",
   "license": "ISC",
